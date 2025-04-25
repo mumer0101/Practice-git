@@ -22,3 +22,7 @@ _italic_
 1. First ordered list item
    * Unordered sub-list.
 1. Numbers don't really matter
+
+```
+this is for writing a code
+```
