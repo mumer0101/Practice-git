@@ -36,3 +36,19 @@ this is for writing a code
 
 ### Image inside a Link (Clickable Image):
 [![Github Logo](https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png)](https://www.linkedin.com/in/muhammad-umer-8b12b1272/)
+
+### table
+| Left   | Center   | Right   |
+|--------|:--------:|--------:|
+| One    | Two      | $1.00   |
+| Three  | Four     | $120.00 |
+| Five   | Six      | $.99    |
+
+### Collapsed 
+<details>
+<summary>collapsed</summary>
+
+# Header
+
+This is the copy for the collapsed text.
+</details>
