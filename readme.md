@@ -26,3 +26,14 @@ _italic_
 ```
 this is for writing a code
 ```
+
+### Image Syntax:
+![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)
+
+### Reference-style Image Link:
+![Tomolor]
+
+[Tomolor]: https://pixelprowess.com/i/stargazers/tomolor.png
+
+### Image inside a Link (Clickable Image):
+[![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://raybo.org)
