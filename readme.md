@@ -28,11 +28,11 @@ this is for writing a code
 ```
 
 ### Image Syntax:
-![Tomolor](https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png)
+![Github Logo](https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png)
 
 ### Reference-style Image Link:
-![Tomolor]
-[Tomolor]: https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png
+![Github Logo]
+[Github Logo]: https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png
 
 ### Image inside a Link (Clickable Image):
-[![Tomolor](https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png)](https://www.linkedin.com/in/muhammad-umer-8b12b1272/)
+[![Github Logo](https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png)](https://www.linkedin.com/in/muhammad-umer-8b12b1272/)
