@@ -36,4 +36,4 @@ this is for writing a code
 [Tomolor]: https://pixelprowess.com/i/stargazers/tomolor.png
 
 ### Image inside a Link (Clickable Image):
-[![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://raybo.org)
+[![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://www.linkedin.com/in/muhammad-umer-8b12b1272/)
